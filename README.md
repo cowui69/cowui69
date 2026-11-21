@@ -92,9 +92,7 @@ I care about clean, maintainable code and enjoy picking up new technologies to s
 
 ## <img src="https://api.iconify.design/lucide/send.svg?color=%2314b8a6&height=22" height="22" alt="" /> Connect With Me
 
-| | |
-|---|---|
-| <img src="https://api.iconify.design/lucide/globe.svg?color=%2314b8a6&height=18" height="18" alt="" /> **Portfolio** | [yap-eng-wui.vercel.app](https://yap-eng-wui.vercel.app) |
-| <img src="https://api.iconify.design/lucide/linkedin.svg?color=%2314b8a6&height=18" height="18" alt="" /> **LinkedIn** | [linkedin.com/in/eng-wui-yap](https://www.linkedin.com/in/eng-wui-yap/) |
-| <img src="https://api.iconify.design/lucide/mail.svg?color=%2314b8a6&height=18" height="18" alt="" /> **Email** | [cowuiyap@gmail.com](mailto:cowuiyap@gmail.com) |
-| <img src="https://api.iconify.design/lucide/github.svg?color=%2314b8a6&height=18" height="18" alt="" /> **GitHub** | [@cowui69](https://github.com/cowui69) |
+<img src="https://api.iconify.design/lucide/globe.svg?color=%2314b8a6&height=18" height="18" alt="" /> **Portfolio** — [yap-eng-wui.vercel.app](https://yap-eng-wui.vercel.app)<br />
+<img src="https://api.iconify.design/lucide/linkedin.svg?color=%2314b8a6&height=18" height="18" alt="" /> **LinkedIn** — [linkedin.com/in/eng-wui-yap](https://www.linkedin.com/in/eng-wui-yap/)<br />
+<img src="https://api.iconify.design/lucide/mail.svg?color=%2314b8a6&height=18" height="18" alt="" /> **Email** — [cowuiyap@gmail.com](mailto:cowuiyap@gmail.com)<br />
+<img src="https://api.iconify.design/lucide/github.svg?color=%2314b8a6&height=18" height="18" alt="" /> **GitHub** — [@cowui69](https://github.com/cowui69)
