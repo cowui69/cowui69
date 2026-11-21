@@ -1,115 +1,100 @@
-# Hi, I'm Yap Eng Wui 👋
+<h1>Yap Eng Wui</h1>
 
-I'm a **Software Development graduate** interested in **backend and full-stack development**. I have hands-on experience from a **6-month Software Developer internship**, working on enterprise systems, APIs, databases, testing, debugging, and system modernization.
+<p><b>Application Engineer · Software Developer</b> — backend &amp; full-stack, based in Selangor, Malaysia.</p>
 
-## 🛠️ Tech Stack
+<p>
+  <a href="https://yap-eng-wui.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yap--eng--wui.vercel.app-0f766e?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/eng-wui-yap/"><img src="https://img.shields.io/badge/LinkedIn-eng--wui--yap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:cowuiyap@gmail.com"><img src="https://img.shields.io/badge/Email-cowuiyap%40gmail.com-27272a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### Languages & Mobile
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2314b8a6&height=22" height="22" alt="" /> About
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat\&logo=csharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+I'm an **Application Engineer at Hitachi eBworx** with a Bachelor's degree in Information Technology (Honours), Software Systems Development. During a six-month internship in retail technology I worked on enterprise applications end to end — building features with **Java, Spring Boot and Vue.js**, integrating REST APIs, resolving production issues and supporting releases.
 
-### Backend
+I care about clean, maintainable code and enjoy picking up new technologies to solve real problems.
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat\&logo=java\&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-007396?style=flat\&logo=java\&logoColor=white)
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%2314b8a6&height=22" height="22" alt="" /> Experience
 
-### Frontend
+| Role | Company | Period |
+|---|---|---|
+| **Application Engineer** | Hitachi eBworx | Nov 2026 – Present |
+| **Software Engineer Intern** | QR Retail Automation (Asia) Sdn Bhd | Jan 2026 – Jul 2026 |
+| **Programmer Intern** | Bluevy Cloud Sdn Bhd | Nov 2023 – Jan 2024 |
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat\&logo=vuedotjs\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2314b8a6&height=22" height="22" alt="" /> Tech Stack
 
-### Databases & APIs
+**Languages**<br />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat\&logo=sqlalchemy\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat\&logo=json\&logoColor=white)
+**Backend**<br />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/JSP_%26_Servlets-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JSP & Servlets" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
 
-### Testing & Tools
+**Frontend &amp; Mobile**<br />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 
-![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat\&logo=php\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat\&logo=gitlab\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
+**Databases &amp; Tools**<br />
+<img src="https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
 
----
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2314b8a6&height=22" height="22" alt="" /> Featured Projects
 
-## 📂 Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/music.svg?color=%2314b8a6&height=18" height="18" alt="" /> <a href="https://github.com/cowui69/audio-to-notation-web-system">Audio-to-Notation Web System</a></h3>
+      <sub>Final Year Project · Solo</sub>
+      <p>Full-stack Flask application that turns WAV recordings into editable sheet music using AI transcription, with a community for sharing and discussing scores.</p>
+      <sub><code>Python</code> <code>Flask</code> <code>SQLAlchemy</code> <code>MySQL</code> <code>Hugging Face</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/book-open.svg?color=%2314b8a6&height=18" height="18" alt="" /> <a href="https://github.com/cowui69/library-management-system">Library Management System</a></h3>
+      <sub>University group project</sub>
+      <p>Laravel 12 application for end-to-end library operations — cataloguing, loans and reservations, tiered memberships with rewards, digital resources and PDF reporting.</p>
+      <sub><code>PHP</code> <code>Laravel</code> <code>MySQL</code> <code>Sanctum</code> <code>PHPUnit</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/shopping-cart.svg?color=%2314b8a6&height=18" height="18" alt="" /> <a href="https://github.com/cowui69/java-mvc-ecommerce">Java MVC E-Commerce</a></h3>
+      <sub>University group project</sub>
+      <p>MVC e-commerce platform built with Java Servlets and JSP, featuring a complete shopping and checkout flow plus an admin dashboard for products, orders and reports.</p>
+      <sub><code>Java</code> <code>Java EE</code> <code>Servlets</code> <code>JSP</code> <code>JPA</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/wrench.svg?color=%2314b8a6&height=18" height="18" alt="" /> <a href="https://github.com/cowui69/workshop-app-flutter">Workshop Management App</a></h3>
+      <sub>University group project</sub>
+      <p>Flutter mobile app that streamlines workshop operations — job scheduling, customers and vehicles, inventory, procurement and invoicing — backed by Supabase.</p>
+      <sub><code>Flutter</code> <code>Dart</code> <code>Supabase</code> <code>Provider</code></sub>
+    </td>
+  </tr>
+</table>
 
-### 🎵 Audio-to-Notation Web System
+<img src="https://api.iconify.design/lucide/trophy.svg?color=%2314b8a6&height=16" height="16" alt="" /> Also: <a href="https://github.com/cowui69/SportingGoodsStore"><b>Sporting Goods Store</b></a> — PHP &amp; MySQL online store with customer storefront and admin back office.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat\&logo=sqlalchemy\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![AI](https://img.shields.io/badge/AI-412991?style=flat)
+<img src="https://api.iconify.design/lucide/arrow-up-right.svg?color=%2314b8a6&height=16" height="16" alt="" /> Full write-ups for every project: **[yap-eng-wui.vercel.app](https://yap-eng-wui.vercel.app/#projects)**
 
-Developed a **full-stack web application** that uses AI to convert audio into digital sheet music. Implemented backend APIs, database operations, user authentication, content management, search, and admin moderation.
+## <img src="https://api.iconify.design/lucide/send.svg?color=%2314b8a6&height=22" height="22" alt="" /> Connect With Me
 
----
-
-### 🛒 Java MVC E-Commerce
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat\&logo=java\&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-007396?style=flat\&logo=java\&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-Architecture-6DB33F?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-
-Developed a **Java MVC e-commerce application** with product, cart, checkout, payment, and order management. Applied **OOP, MVC architecture, database integration, and CRUD operations**.
-
----
-
-### 📚 Library Management System
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat\&logo=php\&logoColor=white)
-
-Built a **Laravel-based library management system** with REST APIs, authentication, database management, borrowing and reservation workflows. Implemented **automated testing using PHPUnit** to improve system reliability.
-
----
-
-### 🏃 Sporting Goods Store
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-
-Developed a **PHP e-commerce web application** with product management, search, shopping cart, wishlist, checkout, and order processing.
-
----
-
-### 🔧 Workshop App
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
-
-Developed a **mobile workshop management application** using Flutter and Supabase to manage jobs, customers, vehicles, inventory, procurement, and invoices.
-
-
----
-
-## 📫 Connect With Me
-
-* **GitHub**: [@cowui69](https://github.com/cowui69)
-* **LinkedIn**: [Yap Eng Wui](https://www.linkedin.com/in/eng-wui-yap/)
+| | |
+|---|---|
+| <img src="https://api.iconify.design/lucide/globe.svg?color=%2314b8a6&height=18" height="18" alt="" /> **Portfolio** | [yap-eng-wui.vercel.app](https://yap-eng-wui.vercel.app) |
+| <img src="https://api.iconify.design/lucide/linkedin.svg?color=%2314b8a6&height=18" height="18" alt="" /> **LinkedIn** | [linkedin.com/in/eng-wui-yap](https://www.linkedin.com/in/eng-wui-yap/) |
+| <img src="https://api.iconify.design/lucide/mail.svg?color=%2314b8a6&height=18" height="18" alt="" /> **Email** | [cowuiyap@gmail.com](mailto:cowuiyap@gmail.com) |
+| <img src="https://api.iconify.design/lucide/github.svg?color=%2314b8a6&height=18" height="18" alt="" /> **GitHub** | [@cowui69](https://github.com/cowui69) |
